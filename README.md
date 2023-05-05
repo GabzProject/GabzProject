@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/1103085757578621008/1103848004198355014/Blue_Futuristic_Technology_Business_Card.gif)
 <h1 align="center">Hi 👋, I'm Gabz Project</h1>
-<h3 align="center">A passionate frontend developer from IIndonesia</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1103080678117093446/1103106672471310377/P_tech_letter_logo_TEMPLATE.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabzproject&label=Profile%20views&color=0e75b6&style=flat" alt="gabzproject" /> </p>
