@@ -1,18 +1,17 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/1091938902614474752/1103931656328454184/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
-<h1 align="center">Hi 👋, I'm Gabz Project</h1>
+<h1 align="center">Hi 👋, I'm Qia Project</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1103080678117093446/1103106672471310377/P_tech_letter_logo_TEMPLATE.png">
+<img align="right" alt="Coding" width="400" src="[https://cdn.discordapp.com/attachments/1103080678117093446/1103106672471310377/P_tech_letter_logo_TEMPLATE.png](https://cdn.discordapp.com/attachments/1118935289902157857/1118936515192565800/Q_lettering_Creative.png)">
 
 ### Hi there 👋
 
-- 👋 Hi, I’m Gabz Project.
+- 👋 Hi, I’m Qia Project.
 - 🔭 I’m currently working on Discord Bot Developer and Full Stack Developer.
 - 🌱 I’m currently learning JavaScript, nodejs, html, css, lua, sql, mysql, dll.
 - 👯 I’m looking to collaborate on Discord Bot Developer and Full Stack Developer.
 - 💬 Ask me about Editing Script, Developer Full Access and Discord Bot and Discord Server Settings.
 - 📫 How to reach me:
-  - My Discord Account: GabrielT#6648
-  - My Discord Server: [✦ | PROMIND](https://discord.gg/J2VApcsNvG) - This is a public discord server but you can find me there.
+  - My Discord Account: Riel#7378
 - ☕ Follow & Support me: https://saweria.co/promind
 
 <h3 align="left">Languages and Tools:</h3>
