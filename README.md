@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/1091938902614474752/1103931656328454184/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Qia Project</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1118935289902157857/1118936515192565800/Q_lettering_Creative.png">
+<img align="right" alt="Coding" width="400" src=>
 
 ### Hi there 👋
 
